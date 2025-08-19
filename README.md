@@ -216,11 +216,28 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎨 Enhanced GitHub profile with advanced features and interactive elements
+2. ✨ Added professional GitHub profile README with stats and project showcase
+3. 🚀 Optimized personal homepage with modern design elements
+4. 💻 Working on browser automation scripts and userscript development
+5. 🌱 Exploring new frontend technologies and best practices
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/hj01857655)
+
+## ⏰ Coding Time This Week
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 32 mins   ████████████░░░░░░░░░░░░░   48.2%
+TypeScript   4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.1%
+Vue.js       3 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   19.1%
+CSS          1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    8.3%
+HTML         0 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
+```
+<!--END_SECTION:waka-->
 
 ## 🎯 2024 Goals
 
@@ -236,7 +253,11 @@ graph LR
 <div align="center">
 
 ### 🐍 Snake Game (Contribution Graph)
-![Snake animation](https://github.com/hj01857655/hj01857655/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hj01857655/hj01857655/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hj01857655/hj01857655/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/hj01857655/hj01857655/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 🎲 Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
