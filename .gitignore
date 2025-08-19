@@ -1,0 +1,19 @@
+# 忽略油猴脚本文件
+*.user.js
+Augment API Token Tool*.js
+
+# 忽略其他不需要提交的文件
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 忽略编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 忽略临时文件
+temp/
+tmp/
