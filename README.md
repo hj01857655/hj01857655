@@ -50,6 +50,11 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+### 🦀 Systems Programming & Desktop Apps
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ### 🌐 Browser & Automation
 ![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Tampermonkey](https://img.shields.io/badge/-Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)
@@ -94,19 +99,41 @@
 <tr>
 <td width="50%">
 
-### 🎯 Personal Projects
+### 🚀 Featured Projects
+
+**[XMail - 邮件管理系统](https://github.com/hj01857655/XMail)**
+- 🛠️ **Tech**: Rust + Tauri + Vue.js 3 + SQLite
+- 📝 **Description**: 现代化跨平台桌面邮件管理应用
+- ⭐ **Features**:
+  - 🚀 跨平台支持 (Windows/macOS/Linux)
+  - ⚡ Rust 后端高性能
+  - 💻 Vue.js 响应式界面
+  - 📊 实时统计和搜索功能
+
+**[Augment Token Manager](https://github.com/hj01857655/augment-token-mng)**
+- 🛠️ **Tech**: Rust + Tauri 2.0 + Vue 3 + OAuth 2.0
+- 📝 **Description**: Augment Code 访问令牌管理工具
+- ⭐ **Features**:
+  - 🔐 PKCE OAuth 2.0 安全认证
+  - 💾 本地加密存储
+  - 📊 实时状态检查和余额监控
+  - ⚡ HTTP连接池优化
+
+</td>
+<td width="50%">
+
+### 🔧 Browser Automation
+
 **[ScriptCat](https://github.com/hj01857655/ScriptCat)**
 - 🛠️ **Tech**: JavaScript, Browser APIs
-- 📝 **Description**: Custom userscripts collection for browser automation and enhancement
+- 📝 **Description**: Custom userscripts collection for browser automation
 - ⭐ **Features**:
   - User interface automation
   - Web scraping utilities
   - Browser extension development
 
-</td>
-<td width="50%">
+### 🍴 Learning & Research
 
-### 🍴 Notable Contributions
 **[claude-code-reverse](https://github.com/hj01857655/claude-code-reverse)**
 - 🔍 **Focus**: Reverse Engineering & Analysis
 - 💡 **Learning**: LLM code analysis techniques
@@ -143,15 +170,17 @@
 
 ## 🎨 Skills & Expertise
 
-### 💻 Programming Languages
+### 💻 Programming Languages & Frameworks
 <div align="center">
 
-| Language | Proficiency | Experience |
-|----------|-------------|------------|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ████████░░ 80% | 3+ years |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ███████░░░ 70% | 2+ years |
-| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ████████░░ 80% | 2+ years |
-| ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white) | █████████░ 90% | 4+ years |
+| Technology | Proficiency | Experience | Projects |
+|------------|-------------|------------|----------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ████████░░ 80% | 3+ years | Browser Automation, Frontend |
+| ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) | ███████░░░ 70% | 1+ years | Desktop Apps, System Programming |
+| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ████████░░ 80% | 2+ years | XMail, Token Manager |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ███████░░░ 70% | 2+ years | Type-safe Development |
+| ![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) | ███████░░░ 70% | 1+ years | Cross-platform Desktop Apps |
+| ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white) | █████████░ 90% | 4+ years | Responsive Web Design |
 
 </div>
 
@@ -159,13 +188,15 @@
 
 ```javascript
 const hj01857655 = {
-    code: ["JavaScript", "TypeScript", "Vue", "React"],
-    tools: ["VS Code", "Git", "Chrome DevTools", "ScriptCat"],
-    architecture: ["SPA", "Component-based", "Responsive Design"],
-    currentFocus: "Modern Frontend Development & Browser Automation",
-    learningGoals: ["Advanced TypeScript", "Performance Optimization", "Web3"],
+    code: ["JavaScript", "TypeScript", "Rust", "Vue.js"],
+    frameworks: ["Tauri", "Vue 3", "Vite"],
+    tools: ["VS Code", "Git", "Chrome DevTools", "Cargo"],
+    architecture: ["Desktop Apps", "SPA", "Cross-platform", "Responsive Design"],
+    currentFocus: "Rust + Tauri Desktop Development & Browser Automation",
+    specialties: ["OAuth 2.0", "Desktop GUI", "System Programming", "Token Management"],
+    learningGoals: ["Advanced Rust", "WebAssembly", "Performance Optimization"],
     workStyle: "Collaborative, Detail-oriented, Continuous Learning",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I love building cross-platform apps with Rust! 🦀"
 };
 ```
 
@@ -192,9 +223,12 @@ graph LR
 </div>
 
 ### 🌟 Areas of Interest
+- 🦀 **Rust Systems Programming & Desktop Apps**
+- 🔧 **Cross-platform Development with Tauri**
+- 🔐 **OAuth 2.0 & Security Implementation**
 - 🔧 **Browser Automation & Userscripts**
-- 🎨 **UI/UX Design Systems**
-- ⚡ **Frontend Performance Optimization**
+- 🎨 **Modern UI/UX Design Systems**
+- ⚡ **Performance Optimization & Memory Safety**
 - 📱 **Responsive Web Development**
 - 🔍 **Code Analysis & Reverse Engineering**
 
@@ -239,14 +273,18 @@ HTML         0 hrs 3 mins    ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## 🎯 2024 Goals
+## 🎯 2024-2025 Goals
 
 - [x] 🚀 Master Vue 3 Composition API
 - [x] 📱 Build responsive web applications
+- [x] 🦀 Learn Rust systems programming
+- [x] 🖥️ Build cross-platform desktop apps with Tauri
+- [x] 🔐 Implement OAuth 2.0 security standards
 - [ ] 🤖 Learn AI/ML integration in web apps
 - [ ] 🌐 Contribute to 5 open source projects
-- [ ] 📚 Write technical blog posts
+- [ ] 📚 Write technical blog posts about Rust & Tauri
 - [ ] 🎨 Master advanced CSS animations
+- [ ] 🔧 Explore WebAssembly with Rust
 
 ## 🎮 Fun Zone
 
@@ -254,9 +292,9 @@ HTML         0 hrs 3 mins    ░░░░░░░░░░░░░░░░░
 
 ### 🐍 Snake Game (Contribution Graph)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hj01857655/hj01857655/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hj01857655/hj01857655/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/hj01857655/hj01857655/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hj01857655/hj01857655/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hj01857655/hj01857655/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hj01857655/hj01857655/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### 🎲 Random Joke
