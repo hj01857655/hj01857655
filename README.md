@@ -250,8 +250,8 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Warp Account Manager v2.0](https://github.com/hj01857655/warpdev_account_tool/releases/tag/v2.0) in [hj01857655/warpdev_account_tool](https://github.com/hj01857655/warpdev_account_tool)
-2. ✨ Added professional GitHub profile README with stats and project showcase
+1. 🚀 Published release [v2.1 - 迁移到 uv 依赖管理](https://github.com/hj01857655/warpdev_account_tool/releases/tag/v2.1) in [hj01857655/warpdev_account_tool](https://github.com/hj01857655/warpdev_account_tool)
+2. 🚀 Published release [Warp Account Manager v2.0](https://github.com/hj01857655/warpdev_account_tool/releases/tag/v2.0) in [hj01857655/warpdev_account_tool](https://github.com/hj01857655/warpdev_account_tool)
 3. 🚀 Optimized personal homepage with modern design elements
 4. 💻 Working on browser automation scripts and userscript development
 5. 🌱 Exploring new frontend technologies and best practices
