@@ -250,11 +250,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Warp.dev Account Tool v2.1.7](https://github.com/hj01857655/warpdev_account_tool/releases/tag/v2.1.7) in [hj01857655/warpdev_account_tool](https://github.com/hj01857655/warpdev_account_tool)
-2. 🚀 Published release [Warp.dev Account Tool v2.1.6](https://github.com/hj01857655/warpdev_account_tool/releases/tag/v2.1.6) in [hj01857655/warpdev_account_tool](https://github.com/hj01857655/warpdev_account_tool)
-3. 🚀 Published release [Warp.dev Account Tool v2.1.5](https://github.com/hj01857655/warpdev_account_tool/releases/tag/v2.1.5) in [hj01857655/warpdev_account_tool](https://github.com/hj01857655/warpdev_account_tool)
-4. 🚀 Published release [Warp.dev Account Tool v2.1.4](https://github.com/hj01857655/warpdev_account_tool/releases/tag/v2.1.4) in [hj01857655/warpdev_account_tool](https://github.com/hj01857655/warpdev_account_tool)
-5. 🌱 Exploring new frontend technologies and best practices
+1. 🚀 Published release [Kiro Token Manager v1.0.1](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.1) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
+2. 🚀 Published release [Kiro Token Manager v1.0.0](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.0) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
+3. 🚀 Published release [Warp.dev Account Tool v2.1.7](https://github.com/hj01857655/warpdev_account_tool/releases/tag/v2.1.7) in [hj01857655/warpdev_account_tool](https://github.com/hj01857655/warpdev_account_tool)
+4. 🚀 Published release [Warp.dev Account Tool v2.1.6](https://github.com/hj01857655/warpdev_account_tool/releases/tag/v2.1.6) in [hj01857655/warpdev_account_tool](https://github.com/hj01857655/warpdev_account_tool)
+5. 🚀 Published release [Warp.dev Account Tool v2.1.5](https://github.com/hj01857655/warpdev_account_tool/releases/tag/v2.1.5) in [hj01857655/warpdev_account_tool](https://github.com/hj01857655/warpdev_account_tool)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
