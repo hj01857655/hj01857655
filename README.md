@@ -250,11 +250,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Kiro Token Manager v1.0.4](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.4) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
-2. 🚀 Published release [Kiro Token Manager v1.0.3](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.3) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
-3. 🚀 Published release [Kiro Token Manager v1.0.2](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.2) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
-4. 🚀 Published release [Kiro Token Manager v1.0.1](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.1) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
-5. 🚀 Published release [Kiro Token Manager v1.0.0](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.0) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
+1. 🚀 Published release [Kiro Token Manager v1.0.6](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.6) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
+2. 🚀 Published release [Kiro Token Manager v1.0.5](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.5) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
+3. 🚀 Published release [Kiro Token Manager v1.0.4](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.4) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
+4. 🚀 Published release [Kiro Token Manager v1.0.3](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.3) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
+5. 🚀 Published release [Kiro Token Manager v1.0.2](https://github.com/hj01857655/kiro-token-manager/releases/tag/v1.0.2) in [hj01857655/kiro-token-manager](https://github.com/hj01857655/kiro-token-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
