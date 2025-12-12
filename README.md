@@ -250,9 +250,9 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hj01857655/kiro-account-manager/issues/1#issuecomment-3624121115) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🗣 Commented on [#1](https://github.com/hj01857655/kiro-account-manager/issues/1#issuecomment-3623961198) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🚀 Published release [Kiro Token Manager v1.0.9](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.0.9) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🗣 Commented on [#2](https://github.com/hj01857655/kiro-account-manager/issues/2#issuecomment-3644770735) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🗣 Commented on [#1](https://github.com/hj01857655/kiro-account-manager/issues/1#issuecomment-3624121115) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🗣 Commented on [#1](https://github.com/hj01857655/kiro-account-manager/issues/1#issuecomment-3623961198) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 4. 🚀 Published release [Kiro Token Manager v1.0.8](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.0.8) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 5. 🚀 Published release [Kiro Token Manager v1.0.7](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.0.7) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
