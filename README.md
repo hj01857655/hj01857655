@@ -250,10 +250,10 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/hj01857655/kiro-account-manager/issues/7#issuecomment-3694927044) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🗣 Commented on [#8](https://github.com/hj01857655/kiro-account-manager/issues/8#issuecomment-3694926604) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🗣 Commented on [#6](https://github.com/hj01857655/kiro-account-manager/issues/6#issuecomment-3689164136) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🗣 Commented on [#1](https://github.com/hj01857655/kiro-account-manager/issues/1#issuecomment-3623961198) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🗣 Commented on [#11](https://github.com/hj01857655/kiro-account-manager/issues/11#issuecomment-3707235570) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🗣 Commented on [#7](https://github.com/hj01857655/kiro-account-manager/issues/7#issuecomment-3694927044) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🗣 Commented on [#8](https://github.com/hj01857655/kiro-account-manager/issues/8#issuecomment-3694926604) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🗣 Commented on [#6](https://github.com/hj01857655/kiro-account-manager/issues/6#issuecomment-3689164136) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 5. 🚀 Published release [Kiro Token Manager v1.0.7](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.0.7) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
