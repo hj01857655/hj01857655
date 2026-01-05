@@ -250,11 +250,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/numman-ali/openskills/issues/34#issuecomment-3708722257) in [numman-ali/openskills](https://github.com/numman-ali/openskills)
-2. ❗ Opened issue [#34](https://github.com/numman-ali/openskills/issues/34) in [numman-ali/openskills](https://github.com/numman-ali/openskills)
-3. 🔒 Closed issue [#4](https://github.com/hj01857655/kiro-account-manager/issues/4) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🔒 Closed issue [#2](https://github.com/hj01857655/kiro-account-manager/issues/2) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🔒 Closed issue [#6](https://github.com/hj01857655/kiro-account-manager/issues/6) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🗣 Commented on [#12](https://github.com/hj01857655/kiro-account-manager/issues/12#issuecomment-3708951944) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🔒 Closed issue [#12](https://github.com/hj01857655/kiro-account-manager/issues/12) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🗣 Commented on [#12](https://github.com/hj01857655/kiro-account-manager/issues/12#issuecomment-3708947964) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🗣 Commented on [#34](https://github.com/numman-ali/openskills/issues/34#issuecomment-3708722257) in [numman-ali/openskills](https://github.com/numman-ali/openskills)
+5. ❗ Opened issue [#34](https://github.com/numman-ali/openskills/issues/34) in [numman-ali/openskills](https://github.com/numman-ali/openskills)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
