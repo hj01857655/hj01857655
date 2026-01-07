@@ -250,11 +250,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13](https://github.com/hj01857655/kiro-account-manager/issues/13) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🗣 Commented on [#13](https://github.com/hj01857655/kiro-account-manager/issues/13#issuecomment-3709270392) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🗣 Commented on [#12](https://github.com/hj01857655/kiro-account-manager/issues/12#issuecomment-3708951944) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🔒 Closed issue [#12](https://github.com/hj01857655/kiro-account-manager/issues/12) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🗣 Commented on [#12](https://github.com/hj01857655/kiro-account-manager/issues/12#issuecomment-3708947964) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🎉 Merged PR [#22](https://github.com/aliom-v/KiroGate/pull/22) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
+2. 💪 Opened PR [#22](https://github.com/aliom-v/KiroGate/pull/22) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
+3. ❌ Closed PR [#21](https://github.com/aliom-v/KiroGate/pull/21) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
+4. 💪 Opened PR [#21](https://github.com/aliom-v/KiroGate/pull/21) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
+5. ❌ Closed PR [#20](https://github.com/aliom-v/KiroGate/pull/20) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
