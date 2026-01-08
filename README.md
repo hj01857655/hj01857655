@@ -250,11 +250,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/aliom-v/KiroGate/pull/22) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
-2. 💪 Opened PR [#22](https://github.com/aliom-v/KiroGate/pull/22) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
-3. ❌ Closed PR [#21](https://github.com/aliom-v/KiroGate/pull/21) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
-4. 💪 Opened PR [#21](https://github.com/aliom-v/KiroGate/pull/21) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
-5. ❌ Closed PR [#20](https://github.com/aliom-v/KiroGate/pull/20) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
+1. 🗣 Commented on [#16](https://github.com/aliom-v/KiroGate/issues/16#issuecomment-3720282273) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
+2. 🎉 Merged PR [#22](https://github.com/aliom-v/KiroGate/pull/22) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
+3. 💪 Opened PR [#22](https://github.com/aliom-v/KiroGate/pull/22) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
+4. ❌ Closed PR [#21](https://github.com/aliom-v/KiroGate/pull/21) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
+5. 💪 Opened PR [#21](https://github.com/aliom-v/KiroGate/pull/21) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
