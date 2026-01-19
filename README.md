@@ -250,11 +250,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/hj01857655/kiro-account-manager/issues/15#issuecomment-3756287563) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🔒 Closed issue [#15](https://github.com/hj01857655/kiro-account-manager/issues/15) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🔒 Closed issue [#17](https://github.com/hj01857655/kiro-account-manager/issues/17) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🗣 Commented on [#16](https://github.com/aliom-v/KiroGate/issues/16#issuecomment-3720282273) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
-5. 🎉 Merged PR [#22](https://github.com/aliom-v/KiroGate/pull/22) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
+1. 🚀 Published release [kiro-gateway v0.1.1](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.1.1) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
+2. 🗣 Commented on [#15](https://github.com/hj01857655/kiro-account-manager/issues/15#issuecomment-3756287563) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🔒 Closed issue [#15](https://github.com/hj01857655/kiro-account-manager/issues/15) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🔒 Closed issue [#17](https://github.com/hj01857655/kiro-account-manager/issues/17) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🗣 Commented on [#16](https://github.com/aliom-v/KiroGate/issues/16#issuecomment-3720282273) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
