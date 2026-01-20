@@ -250,11 +250,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [kiro-gateway v0.3.1](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.3.1) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
-2. 🚀 Published release [kiro-gateway v0.1.1](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.1.1) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
-3. 🗣 Commented on [#15](https://github.com/hj01857655/kiro-account-manager/issues/15#issuecomment-3756287563) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🔒 Closed issue [#15](https://github.com/hj01857655/kiro-account-manager/issues/15) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🔒 Closed issue [#17](https://github.com/hj01857655/kiro-account-manager/issues/17) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🚀 Published release [kiro-gateway v0.3.7](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.3.7) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
+2. 🚀 Published release [kiro-gateway v0.3.4](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.3.4) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
+3. 🚀 Published release [kiro-gateway v0.3.3](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.3.3) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
+4. 🚀 Published release [kiro-gateway v0.3.1](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.3.1) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
+5. 🚀 Published release [kiro-gateway v0.1.1](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.1.1) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
