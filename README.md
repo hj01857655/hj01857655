@@ -250,9 +250,9 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Kiro Gateway v0.4.0](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.4.0) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
-2. 🚀 Published release [kiro-gateway v0.3.7](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.3.7) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
-3. 🚀 Published release [kiro-gateway v0.3.3](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.3.3) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
+1. 🗣 Commented on [#29](https://github.com/aliom-v/KiroGate/issues/29#issuecomment-3790555828) in [aliom-v/KiroGate](https://github.com/aliom-v/KiroGate)
+2. 🚀 Published release [Kiro Gateway v0.4.0](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.4.0) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
+3. 🚀 Published release [kiro-gateway v0.3.7](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.3.7) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
 4. 🚀 Published release [kiro-gateway v0.3.1](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.3.1) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
 5. 🚀 Published release [kiro-gateway v0.1.1](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.1.1) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
 <!--END_SECTION:activity-->
