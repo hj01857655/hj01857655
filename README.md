@@ -250,11 +250,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.3](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.4.3) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
-2. 🚀 Published release [Kiro Gateway v0.4.1](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.4.1) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
-3. 🔒 Closed issue [#19](https://github.com/hj01857655/kiro-account-manager/issues/19) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🗣 Commented on [#19](https://github.com/hj01857655/kiro-account-manager/issues/19#issuecomment-3796571852) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🗣 Commented on [#19](https://github.com/hj01857655/kiro-account-manager/issues/19#issuecomment-3796570961) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🚀 Published release [Kiro Gateway v0.4.1](https://github.com/hj01857655/kiro-gateway/releases/tag/v0.4.1) in [hj01857655/kiro-gateway](https://github.com/hj01857655/kiro-gateway)
+2. 🔒 Closed issue [#19](https://github.com/hj01857655/kiro-account-manager/issues/19) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🗣 Commented on [#19](https://github.com/hj01857655/kiro-account-manager/issues/19#issuecomment-3796571852) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🗣 Commented on [#19](https://github.com/hj01857655/kiro-account-manager/issues/19#issuecomment-3796570961) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🔒 Closed issue [#18](https://github.com/hj01857655/kiro-account-manager/issues/18) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
