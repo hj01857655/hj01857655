@@ -250,11 +250,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Kiro Account Manager v1.7.7](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.7.7) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🔒 Closed issue [#21](https://github.com/hj01857655/kiro-account-manager/issues/21) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🗣 Commented on [#21](https://github.com/hj01857655/kiro-account-manager/issues/21#issuecomment-3804232039) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🔒 Closed issue [#23](https://github.com/hj01857655/kiro-account-manager/issues/23) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🔒 Closed issue [#22](https://github.com/hj01857655/kiro-account-manager/issues/22) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🚀 Published release [Kiro Account Manager v1.8.0](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.8.0) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🚀 Published release [Kiro Account Manager v1.7.10](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.7.10) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🚀 Published release [Kiro Account Manager v1.7.9](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.7.9) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🗣 Commented on [#23](https://github.com/hj01857655/kiro-account-manager/issues/23#issuecomment-3809468504) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🚀 Published release [Kiro Account Manager v1.7.7](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.7.7) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
