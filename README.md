@@ -250,11 +250,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#31](https://github.com/hj01857655/kiro-account-manager/issues/31) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🚀 Published release [Kiro Account Manager v1.8.3](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.8.3) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🗣 Commented on [#29](https://github.com/hj01857655/kiro-account-manager/pull/29#issuecomment-3892968270) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🔒 Closed issue [#25](https://github.com/hj01857655/kiro-account-manager/issues/25) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🔒 Closed issue [#24](https://github.com/hj01857655/kiro-account-manager/issues/24) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🗣 Commented on [#30](https://github.com/hj01857655/kiro-account-manager/issues/30#issuecomment-3978081574) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🔒 Closed issue [#31](https://github.com/hj01857655/kiro-account-manager/issues/31) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🚀 Published release [Kiro Account Manager v1.8.3](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.8.3) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🗣 Commented on [#29](https://github.com/hj01857655/kiro-account-manager/pull/29#issuecomment-3892968270) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🔒 Closed issue [#25](https://github.com/hj01857655/kiro-account-manager/issues/25) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
