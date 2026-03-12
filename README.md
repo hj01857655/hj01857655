@@ -99,74 +99,40 @@
 <tr>
 <td width="50%">
 
-### 🚀 Featured Projects
+### 🌟 Top Projects (1/2)
 
-**[XMail - 邮件管理系统](https://github.com/hj01857655/XMail)**
-- 🛠️ **Tech**: Rust + Tauri + Vue.js 3 + SQLite
-- 📝 **Description**: 现代化跨平台桌面邮件管理应用
-- ⭐ **Features**:
-  - 🚀 跨平台支持 (Windows/macOS/Linux)
-  - ⚡ Rust 后端高性能
-  - 💻 Vue.js 响应式界面
-  - 📊 实时统计和搜索功能
+**[kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)**
+- ⭐ Stars: 1106
+- 📝 简介: 智能管理 Kiro IDE 账号，一键切换，配额监控
 
-**[Augment Token Manager](https://github.com/hj01857655/augment-token-mng)**
-- 🛠️ **Tech**: Rust + Tauri 2.0 + Vue 3 + OAuth 2.0
-- 📝 **Description**: Augment Code 访问令牌管理工具
-- ⭐ **Features**:
-  - 🔐 PKCE OAuth 2.0 安全认证
-  - 💾 本地加密存储
-  - 📊 实时状态检查和余额监控
-  - ⚡ HTTP连接池优化
+**[Kiro-GateWay-Go](https://github.com/hj01857655/Kiro-GateWay-Go)**
+- ⭐ Stars: 5
+- 📝 简介: Go + Gin implementation of Kiro API proxy gateway. Provides OpenAI and Anthropic API compatibility for Kiro accounts.
+
+**[orchids-account-manager](https://github.com/hj01857655/orchids-account-manager)**
+- ⭐ Stars: 3
+- 📝 简介: Orchids Manager - 账号管理工具
 
 </td>
 <td width="50%">
 
-### 🔧 Browser Automation
+### 🌟 Top Projects (2/2)
 
-**[ScriptCat](https://github.com/hj01857655/ScriptCat)**
-- 🛠️ **Tech**: JavaScript, Browser APIs
-- 📝 **Description**: Custom userscripts collection for browser automation
-- ⭐ **Features**:
-  - User interface automation
-  - Web scraping utilities
-  - Browser extension development
+**[warpdev-account-manager](https://github.com/hj01857655/warpdev-account-manager)**
+- ⭐ Stars: 3
+- 📝 简介: WarpDev Account Tool - 账户管理工具
 
-### 🍴 Learning & Research
+**[maintainer-firewall](https://github.com/hj01857655/maintainer-firewall)**
+- ⭐ Stars: 1
+- 📝 简介: 暂无公开描述
 
-**[claude-code-reverse](https://github.com/hj01857655/claude-code-reverse)**
-- 🔍 **Focus**: Reverse Engineering & Analysis
-- 💡 **Learning**: LLM code analysis techniques
-
-**[ant-design](https://github.com/hj01857655/ant-design)**
-- 🎨 **UI/UX**: React component library
-- 📚 **Study**: Enterprise-class UI design patterns
+**[zencoder-account-manager](https://github.com/hj01857655/zencoder-account-manager)**
+- ⭐ Stars: 1
+- 📝 简介: ZenCoder Account Manager - Tauri 版本
 
 </td>
 </tr>
 </table>
-
-### 📚 Learning & Research Projects
-
-<details>
-<summary>🔬 <strong>Technical Exploration</strong></summary>
-
-- **[SHST](https://github.com/hj01857655/SHST)** - Educational Management System
-  - 🏫 **Domain**: Educational Technology
-  - 🛠️ **Tech**: Vue.js, API Integration
-  - 📱 **Features**: Student information management, course scheduling
-
-- **[video.min.js](https://github.com/hj01857655/video.min.js)** - Minimal Video Player
-  - 🎥 **Media**: Video streaming optimization
-  - ⚡ **Performance**: Lightweight player implementation
-  - 🔧 **Customization**: Modular video controls
-
-- **[layui](https://github.com/hj01857655/layui)** - UI Framework Study
-  - 🎨 **UI**: Component-based design system
-  - 📐 **Layout**: Responsive grid systems
-  - 🔄 **Integration**: Backend integration patterns
-
-</details>
 
 ## 🎨 Skills & Expertise
 
@@ -250,11 +216,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Parsifa1/codex-board/issues/1) in [Parsifa1/codex-board](https://github.com/Parsifa1/codex-board)
-2. 🗣 Commented on [#30](https://github.com/hj01857655/kiro-account-manager/issues/30#issuecomment-3978081574) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🚀 Published release [Kiro Account Manager v1.8.3](https://github.com/hj01857655/kiro-account-manager/releases/tag/v1.8.3) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🗣 Commented on [#29](https://github.com/hj01857655/kiro-account-manager/pull/29#issuecomment-3892968270) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🔒 Closed issue [#25](https://github.com/hj01857655/kiro-account-manager/issues/25) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🎨 Enhanced GitHub profile with advanced features and interactive elements
+2. ✨ Added professional GitHub profile README with stats and project showcase
+3. 🚀 Optimized personal homepage with modern design elements
+4. 💻 Working on browser automation scripts and userscript development
+5. 🌱 Exploring new frontend technologies and best practices
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
