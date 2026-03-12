@@ -1,0 +1,24 @@
+name: Update README with Dynamic Content
+
+on:
+  schedule:
+    # 每6小时运行一次
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      # 更新最近活动
+      - name: Update Recent Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '⚡ Update README with recent activity'
+          MAX_LINES: 5
