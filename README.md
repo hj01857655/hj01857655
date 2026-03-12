@@ -216,7 +216,7 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎨 Enhanced GitHub profile with advanced features and interactive elements
+1. ❗ Opened issue [#1](https://github.com/Parsifa1/codex-board/issues/1) in [Parsifa1/codex-board](https://github.com/Parsifa1/codex-board)
 2. ✨ Added professional GitHub profile README with stats and project showcase
 3. 🚀 Optimized personal homepage with modern design elements
 4. 💻 Working on browser automation scripts and userscript development
