@@ -216,10 +216,10 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Parsifa1/codex-board/issues/1) in [Parsifa1/codex-board](https://github.com/Parsifa1/codex-board)
-2. ✨ Added professional GitHub profile README with stats and project showcase
-3. 🚀 Optimized personal homepage with modern design elements
-4. 💻 Working on browser automation scripts and userscript development
+1. 🗣 Commented on [#37](https://github.com/hj01857655/kiro-account-manager/issues/37#issuecomment-4060198261) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🔒 Closed issue [#36](https://github.com/hj01857655/kiro-account-manager/issues/36) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🗣 Commented on [#36](https://github.com/hj01857655/kiro-account-manager/issues/36#issuecomment-4060154169) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🗣 Commented on [#37](https://github.com/hj01857655/kiro-account-manager/issues/37#issuecomment-4060146995) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 5. 🌱 Exploring new frontend technologies and best practices
 <!--END_SECTION:activity-->
 
