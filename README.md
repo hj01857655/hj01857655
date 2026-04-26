@@ -216,11 +216,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#54](https://github.com/hj01857655/kiro-account-manager/pull/54) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🗣 Commented on [#54](https://github.com/hj01857655/kiro-account-manager/pull/54#issuecomment-4320231399) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🗣 Commented on [#55](https://github.com/hj01857655/kiro-account-manager/issues/55#issuecomment-4320229235) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🔒 Closed issue [#51](https://github.com/hj01857655/kiro-account-manager/issues/51) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🗣 Commented on [#51](https://github.com/hj01857655/kiro-account-manager/issues/51#issuecomment-4318493175) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🗣 Commented on [#58](https://github.com/hj01857655/kiro-account-manager/issues/58#issuecomment-4321921939) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🗣 Commented on [#58](https://github.com/hj01857655/kiro-account-manager/issues/58#issuecomment-4321917190) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🗣 Commented on [#58](https://github.com/hj01857655/kiro-account-manager/issues/58#issuecomment-4321916861) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🗣 Commented on [#58](https://github.com/hj01857655/kiro-account-manager/issues/58#issuecomment-4321915690) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🗣 Commented on [#58](https://github.com/hj01857655/kiro-account-manager/issues/58#issuecomment-4321915427) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
