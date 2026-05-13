@@ -216,11 +216,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/Quorinex/Kiro-Go/issues/41#issuecomment-4427965678) in [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go)
-2. 🗣 Commented on [#83](https://github.com/hj01857655/kiro-account-manager/issues/83#issuecomment-4427598435) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🔒 Closed issue [#83](https://github.com/hj01857655/kiro-account-manager/issues/83) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🔒 Closed issue [#86](https://github.com/hj01857655/kiro-account-manager/issues/86) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🗣 Commented on [#86](https://github.com/hj01857655/kiro-account-manager/issues/86#issuecomment-4427563862) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🔒 Closed issue [#73](https://github.com/hj01857655/kiro-account-manager/issues/73) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🗣 Commented on [#41](https://github.com/Quorinex/Kiro-Go/issues/41#issuecomment-4427965678) in [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go)
+3. 🗣 Commented on [#83](https://github.com/hj01857655/kiro-account-manager/issues/83#issuecomment-4427598435) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🔒 Closed issue [#83](https://github.com/hj01857655/kiro-account-manager/issues/83) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🔒 Closed issue [#86](https://github.com/hj01857655/kiro-account-manager/issues/86) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
