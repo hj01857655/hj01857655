@@ -216,11 +216,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/hj01857655/kiro-account-manager/issues/95#issuecomment-4448085503) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🗣 Commented on [#95](https://github.com/hj01857655/kiro-account-manager/issues/95#issuecomment-4448082659) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🗣 Commented on [#95](https://github.com/hj01857655/kiro-account-manager/issues/95#issuecomment-4448077375) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🔒 Closed issue [#95](https://github.com/hj01857655/kiro-account-manager/issues/95) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🔒 Closed issue [#94](https://github.com/hj01857655/kiro-account-manager/issues/94) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🔒 Closed issue [#97](https://github.com/hj01857655/kiro-account-manager/issues/97) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🗣 Commented on [#97](https://github.com/hj01857655/kiro-account-manager/issues/97#issuecomment-4458001417) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🗣 Commented on [#95](https://github.com/hj01857655/kiro-account-manager/issues/95#issuecomment-4448085503) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🗣 Commented on [#95](https://github.com/hj01857655/kiro-account-manager/issues/95#issuecomment-4448082659) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🗣 Commented on [#95](https://github.com/hj01857655/kiro-account-manager/issues/95#issuecomment-4448077375) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
