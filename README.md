@@ -216,11 +216,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#102](https://github.com/hj01857655/kiro-account-manager/issues/102) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🗣 Commented on [#102](https://github.com/hj01857655/kiro-account-manager/issues/102#issuecomment-4479170103) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🔒 Closed issue [#90](https://github.com/hj01857655/kiro-account-manager/issues/90) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🗣 Commented on [#90](https://github.com/hj01857655/kiro-account-manager/issues/90#issuecomment-4479135182) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🔒 Closed issue [#99](https://github.com/hj01857655/kiro-account-manager/issues/99) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🔓 Reopened issue [#105](https://github.com/hj01857655/kiro-account-manager/issues/105) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🗣 Commented on [#105](https://github.com/hj01857655/kiro-account-manager/issues/105#issuecomment-4493875929) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🗣 Commented on [#105](https://github.com/hj01857655/kiro-account-manager/issues/105#issuecomment-4493827899) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🗣 Commented on [#105](https://github.com/hj01857655/kiro-account-manager/issues/105#issuecomment-4493823377) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🗣 Commented on [#105](https://github.com/hj01857655/kiro-account-manager/issues/105#issuecomment-4493812496) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
