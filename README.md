@@ -216,11 +216,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/hj01857655/kiro-account-manager/issues/117#issuecomment-4532450445) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. ❌ Closed PR [#84](https://github.com/hj01857655/kiro-account-manager/pull/84) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🗣 Commented on [#84](https://github.com/hj01857655/kiro-account-manager/pull/84#issuecomment-4531333980) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🗣 Commented on [#117](https://github.com/hj01857655/kiro-account-manager/issues/117#issuecomment-4530698438) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🚀 Published release [Skills Collection v0.1.0](https://github.com/hj01857655/skills/releases/tag/v0.1.0) in [hj01857655/skills](https://github.com/hj01857655/skills)
+1. 🔒 Closed issue [#118](https://github.com/hj01857655/kiro-account-manager/issues/118) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🗣 Commented on [#118](https://github.com/hj01857655/kiro-account-manager/issues/118#issuecomment-4544870029) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🗣 Commented on [#117](https://github.com/hj01857655/kiro-account-manager/issues/117#issuecomment-4532450445) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. ❌ Closed PR [#84](https://github.com/hj01857655/kiro-account-manager/pull/84) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🗣 Commented on [#84](https://github.com/hj01857655/kiro-account-manager/pull/84#issuecomment-4531333980) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
