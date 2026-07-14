@@ -216,11 +216,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/hj01857655/kiro-account-manager/issues/138#issuecomment-4878485288) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🔒 Closed issue [#122](https://github.com/hj01857655/kiro-account-manager/issues/122) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🗣 Commented on [#131](https://github.com/hj01857655/kiro-account-manager/issues/131#issuecomment-4733297328) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🔒 Closed issue [#131](https://github.com/hj01857655/kiro-account-manager/issues/131) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🗣 Commented on [#131](https://github.com/hj01857655/kiro-account-manager/issues/131#issuecomment-4733243632) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. ❌ Closed PR [#146](https://github.com/hj01857655/kiro-account-manager/pull/146) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🗣 Commented on [#146](https://github.com/hj01857655/kiro-account-manager/pull/146#issuecomment-4971954685) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🗣 Commented on [#146](https://github.com/hj01857655/kiro-account-manager/pull/146#issuecomment-4971954439) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. ❌ Closed PR [#147](https://github.com/hj01857655/kiro-account-manager/pull/147) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🗣 Commented on [#147](https://github.com/hj01857655/kiro-account-manager/pull/147#issuecomment-4971954104) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
