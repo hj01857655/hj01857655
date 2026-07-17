@@ -216,11 +216,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#141](https://github.com/hj01857655/kiro-account-manager/issues/141) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🗣 Commented on [#141](https://github.com/hj01857655/kiro-account-manager/issues/141#issuecomment-4978052965) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🗣 Commented on [#148](https://github.com/hj01857655/kiro-account-manager/issues/148#issuecomment-4978052674) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🔒 Closed issue [#148](https://github.com/hj01857655/kiro-account-manager/issues/148) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🗣 Commented on [#142](https://github.com/hj01857655/kiro-account-manager/issues/142#issuecomment-4978050966) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🗣 Commented on [#136](https://github.com/hj01857655/kiro-account-manager/issues/136#issuecomment-4999563736) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🔒 Closed issue [#141](https://github.com/hj01857655/kiro-account-manager/issues/141) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🗣 Commented on [#141](https://github.com/hj01857655/kiro-account-manager/issues/141#issuecomment-4978052965) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🗣 Commented on [#148](https://github.com/hj01857655/kiro-account-manager/issues/148#issuecomment-4978052674) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🔒 Closed issue [#148](https://github.com/hj01857655/kiro-account-manager/issues/148) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
