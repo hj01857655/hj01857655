@@ -216,8 +216,8 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#138](https://github.com/hj01857655/kiro-account-manager/issues/138) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-2. 🗣 Commented on [#155](https://github.com/hj01857655/kiro-account-manager/issues/155#issuecomment-5651447295) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🗣 Commented on [#151](https://github.com/hj01857655/kiro-account-manager/pull/151#issuecomment-5871978849) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. ℹ️ Reopened PR [#149](https://github.com/hj01857655/kiro-account-manager/pull/149) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 3. 🗣 Commented on [#156](https://github.com/hj01857655/kiro-account-manager/issues/156#issuecomment-5644035735) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 4. 🗣 Commented on [#151](https://github.com/hj01857655/kiro-account-manager/pull/151#issuecomment-5001462887) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 5. ℹ️ Reopened PR [#151](https://github.com/hj01857655/kiro-account-manager/pull/151) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
