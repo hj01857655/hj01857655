@@ -216,10 +216,10 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cv-superding/zcode-auto-resume/issues/1#issuecomment-5890184041) in [cv-superding/zcode-auto-resume](https://github.com/cv-superding/zcode-auto-resume)
-2. 🗣 Commented on [#151](https://github.com/hj01857655/kiro-account-manager/pull/151#issuecomment-5871978849) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. ℹ️ Reopened PR [#149](https://github.com/hj01857655/kiro-account-manager/pull/149) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🗣 Commented on [#151](https://github.com/hj01857655/kiro-account-manager/pull/151#issuecomment-5001462887) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. ❗ Opened issue [#14731](https://github.com/cline/cline/issues/14731) in [cline/cline](https://github.com/cline/cline)
+2. 🗣 Commented on [#1](https://github.com/cv-superding/zcode-auto-resume/issues/1#issuecomment-5890184041) in [cv-superding/zcode-auto-resume](https://github.com/cv-superding/zcode-auto-resume)
+3. 🗣 Commented on [#151](https://github.com/hj01857655/kiro-account-manager/pull/151#issuecomment-5871978849) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. ℹ️ Reopened PR [#149](https://github.com/hj01857655/kiro-account-manager/pull/149) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 5. ℹ️ Reopened PR [#151](https://github.com/hj01857655/kiro-account-manager/pull/151) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
