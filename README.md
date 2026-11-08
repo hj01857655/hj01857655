@@ -216,11 +216,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [AgentCrate v0.0.1-demo — test build (Kiroween 2026)](https://github.com/hj01857655/agentcrate/releases/tag/v0.0.1-demo) in [hj01857655/agentcrate](https://github.com/hj01857655/agentcrate)
-2. ❗ Opened issue [#163](https://github.com/ByteRax/zcode-token-usage-statusbar/issues/163) in [ByteRax/zcode-token-usage-statusbar](https://github.com/ByteRax/zcode-token-usage-statusbar)
-3. 🗣 Commented on [#161](https://github.com/hj01857655/kiro-account-manager/issues/161#issuecomment-6383439972) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🗣 Commented on [#158](https://github.com/hj01857655/kiro-account-manager/issues/158#issuecomment-6383439632) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🔒 Closed issue [#160](https://github.com/hj01857655/kiro-account-manager/issues/160) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. ❌ Closed PR [#149](https://github.com/hj01857655/kiro-account-manager/pull/149) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+2. 🗣 Commented on [#149](https://github.com/hj01857655/kiro-account-manager/pull/149#issuecomment-6721683674) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+3. 🔒 Closed issue [#162](https://github.com/hj01857655/kiro-account-manager/issues/162) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+4. 🗣 Commented on [#162](https://github.com/hj01857655/kiro-account-manager/issues/162#issuecomment-6721679620) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+5. 🔒 Closed issue [#142](https://github.com/hj01857655/kiro-account-manager/issues/142) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
