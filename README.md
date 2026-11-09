@@ -216,11 +216,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#875](https://github.com/magpie-community/plugins/issues/875) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
-2. ❌ Closed PR [#149](https://github.com/hj01857655/kiro-account-manager/pull/149) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-3. 🗣 Commented on [#149](https://github.com/hj01857655/kiro-account-manager/pull/149#issuecomment-6721683674) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-4. 🔒 Closed issue [#162](https://github.com/hj01857655/kiro-account-manager/issues/162) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
-5. 🗣 Commented on [#162](https://github.com/hj01857655/kiro-account-manager/issues/162#issuecomment-6721679620) in [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager)
+1. 🗣 Commented on [#875](https://github.com/magpie-community/plugins/issues/875#issuecomment-6735424098) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
+2. ❗ Opened issue [#891](https://github.com/magpie-community/plugins/issues/891) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
+3. 🔒 Closed issue [#875](https://github.com/magpie-community/plugins/issues/875) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
+4. 🗣 Commented on [#875](https://github.com/magpie-community/plugins/issues/875#issuecomment-6735415845) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
+5. ❗ Opened issue [#875](https://github.com/magpie-community/plugins/issues/875) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
