@@ -216,11 +216,11 @@ graph LR
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#875](https://github.com/magpie-community/plugins/issues/875#issuecomment-6735424098) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
-2. ❗ Opened issue [#891](https://github.com/magpie-community/plugins/issues/891) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
-3. 🔒 Closed issue [#875](https://github.com/magpie-community/plugins/issues/875) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
-4. 🗣 Commented on [#875](https://github.com/magpie-community/plugins/issues/875#issuecomment-6735415845) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
-5. ❗ Opened issue [#875](https://github.com/magpie-community/plugins/issues/875) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
+1. 🚀 Published release [Z·HUB v1.10.406](https://github.com/hj01857655/zcode-hub/releases/tag/v1.10.406) in [hj01857655/zcode-hub](https://github.com/hj01857655/zcode-hub)
+2. 🗣 Commented on [#875](https://github.com/magpie-community/plugins/issues/875#issuecomment-6735424098) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
+3. ❗ Opened issue [#891](https://github.com/magpie-community/plugins/issues/891) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
+4. 🔒 Closed issue [#875](https://github.com/magpie-community/plugins/issues/875) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
+5. 🗣 Commented on [#875](https://github.com/magpie-community/plugins/issues/875#issuecomment-6735415845) in [magpie-community/plugins](https://github.com/magpie-community/plugins)
 <!--END_SECTION:activity-->
 
 ## 🎵 Currently Listening
